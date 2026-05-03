@@ -1,37 +1,37 @@
-# UrbanStyle Customer Data Cleaning
+# SunCoast Retail Data Visualization
 
-This repository contains a Python project focused on cleaning and preparing messy customer data using Pandas. The project simulates how real-world business data is transformed into a clean, structured dataset for analysis.
+This repository contains a Python project focused on data visualization using Matplotlib. The project analyzes retail sales and customer data to create visual insights that support business decision-making.
 
 ## Overview
 
-The goal of this project is to take raw CRM data with inconsistencies and errors and apply data cleaning techniques to make it usable. This includes handling missing values, correcting formats, standardizing text, and creating new features for analysis.
+The goal of this project is to transform raw sales and customer data into clear and meaningful visualizations. It includes analyzing trends over time, comparing performance across locations and categories, and identifying relationships between variables.
 
 ## Features
 
-* Load and inspect raw customer data
-* Handle missing values using fill and drop strategies
-* Convert data types for dates and numeric fields
-* Standardize names, categories, and phone numbers
-* Identify and remove duplicate records
-* Create new features such as purchase frequency and average purchase value
-* Sort and organize data for analysis
-* Generate business insights from the cleaned dataset
+* Create time series visualizations of sales trends
+* Compare performance across store locations
+* Analyze product category performance
+* Visualize relationships between advertising spend and sales
+* Explore customer demographics using histograms and box plots
+* Display sales distribution across pricing tiers
+* Analyze market share by category and location
+* Build a comprehensive dashboard with multiple visualizations
 
 ## Files Included
 
-* `module10-assignment.py` – Main Python file containing the full data cleaning workflow
+* `module11-assignment.py` – Main Python file containing all visualizations
 
 ## What I Practiced
 
-In this project, I focused on:
+In this project, I worked on:
 
-* Data cleaning and preprocessing using Pandas
-* Handling missing and inconsistent data
-* Converting and formatting data types
-* Using string methods for text standardization
-* Creating derived variables for analysis
-* Preparing data for business decision-making
+* Creating charts using Matplotlib
+* Selecting appropriate visualization types
+* Customizing plots with labels, titles, and legends
+* Combining Pandas and Matplotlib for analysis
+* Presenting data in a clear and meaningful way
+* Communicating insights through visuals
 
 ## Key Takeaways
 
-This project helped me understand the importance of data cleaning in analytics. I developed skills in transforming raw data into a reliable format and generating insights that can support business decisions.
+This project helped me understand how to communicate data through visualization. I developed skills in turning raw data into clear visual insights that can help businesses make better decisions.
